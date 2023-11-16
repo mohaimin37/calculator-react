@@ -1,0 +1,74 @@
+.container{
+  background: rgb(212, 233, 241);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+.first button{
+  margin: 8px;
+  min-width: 60px;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: rgb(7, 144, 198);
+
+}
+.second button{
+  margin: 8px;
+  min-width: 60px;
+  background: transparent;
+  outline: none;
+  border: none;
+}
+.symbol{
+  color: rgb(5, 146, 202);
+  font-size: larger;
+  font-size: larger;
+}
+.third button{
+  margin: 8px;
+  min-width: 60px;
+  background: transparent;
+  outline: none;
+  border: none;
+
+}
+.forth button{
+  margin: 8px;
+  min-width: 60px;
+  background: transparent;
+  outline: none;
+  border: none;
+
+}
+.fifth button{
+  margin: 8px;
+  min-width: 60px;
+  background: transparent;
+  outline: none;
+  border: none;
+
+}
+.dot{
+  font-size: x-large;
+}
+input[type = "text"] {
+  margin: 40px;
+  padding: 20px;
+  background: transparent;
+  font-size: x-large;
+}
+button{
+  font-size: x-large;
+  font-weight: 400;
+}
+
+
+
+
